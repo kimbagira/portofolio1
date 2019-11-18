@@ -29,7 +29,7 @@
   padding: 100px;
   color: rgb(68, 38, 3);
   margin-bottom: 100px;
-  margin-left: 400px;
+  margin-left: 400px;  margin-right:20%;
   font-family: 'Yeon Sung', cursive;
 
 } 
@@ -98,4 +98,20 @@ p{
 }
 img{
     border-radius: 40%; 
+}
+.force{
+    box-shadow:0 12px 12px rgb(204, 228, 170),0 10px 15px rgb(47, 77, 2);
+  
+  text-align: center;
+  color: rgb(68, 38, 3);
+  font-family: 'Yeon Sung', cursive; 
+  margin-right:20px;
+  margin-left:20px;
+  background-color: antiquewhite;
+}
+.foo{
+    margin-right:20px;
+    margin-left:20px;
+    margin-top: 30px;
+  
 }
